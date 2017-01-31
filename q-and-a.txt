@@ -2,21 +2,22 @@ Please answer the following questions:
 
 
 1. Who are you? :) (What is your full name?)
-
+Woo Jin Lee, but I go by Daniel Lee. I am a sophomore majoring in Finance and Computer Science.
 
 2. What is your GitHub username?
-
+My Github username is dlee15
 
 3. Where are you from (your hometown)?
-
+I was born in Seoul, South Korea, but I moved to the US when I was one year old, and since then I have lived in Colorado, North Carolina, and Massachusetts.
 
 4. What is your favorite local restaurant?
-
+Moon Thai.
 
 5. What is the last good book you read (title, author)?
-
+Inferno by Dan Brown, part of the Da Vinci Code series
 
 6. Which song is in heavy rotation on your MP3 player/iPod/iPhone/stream?
-
+Starboy by the Weeknd
 
 7. If you were to build a web site for fun, what would it be about?
+I would want to create my own website about myself!
